@@ -34,7 +34,6 @@ Os plugins estão organizados em módulos dentro de `~/.config/nvim/lua/plugins/
 
 - Os plugins são modularizados para facilitar manutenção.
 - O `lazy.lua` principal importa todos os módulos da pasta `plugins`.
-- Pastas como `data/raw` podem ser usadas para datasets em projetos de Data Science.
 
 ---
 
